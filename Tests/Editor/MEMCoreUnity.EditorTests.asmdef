@@ -1,0 +1,11 @@
+{
+  "name": "MEMCoreUnity.EditorTests",
+  "references": [
+    "MEMCoreUnity"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": []
+}

@@ -1,0 +1,22 @@
+{
+    "name": "MEMCoreUnity",
+    "references": [
+        ""
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "DOTween.dll",
+        "nuitrack.net.dll",
+        "MEMCore.dll",
+        "MEMCoreData.dll",
+        "TinyMessenger.dll",
+        "Zenject.dll",
+        "Zenject-usage.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

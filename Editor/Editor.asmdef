@@ -1,0 +1,23 @@
+{
+    "name": "MEMCoreEditor",
+    "references": [
+        "UnityEngine.TestRunner",
+        "MEMCoreUnity"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "MEMCore.dll",
+        "MEMCoreData.dll",
+        "DOTweenEditor.dll",
+        "TinyMessenger.dll",
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": []
+}
