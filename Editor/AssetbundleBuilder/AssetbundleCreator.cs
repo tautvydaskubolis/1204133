@@ -1,4 +1,5 @@
 ﻿using UnityEditor;
+using UnityEngine;
 
 namespace Packages.MEMCoreUnity.Editor.AssetbundleBuilder
 {
@@ -7,7 +8,7 @@ namespace Packages.MEMCoreUnity.Editor.AssetbundleBuilder
         [MenuItem("MEM/Build Assetbundles")]
         public static void BuildAssetbundles()
         {
-            Debug.log("done");
+            Debug.Log("done");
         }
     }
 }
